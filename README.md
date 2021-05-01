@@ -1,0 +1,2 @@
+# azuretests
+test azure functions
